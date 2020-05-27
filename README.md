@@ -16,4 +16,4 @@ This code gives any square matrix and calculate its following closures:
 2.Symmetric closure  
 3.Transive closure
 
-If it is seems difficult to understand for you DONT hesitate to ask me.
+# If it is seems difficult to understand for you DONT hesitate to ask me.
