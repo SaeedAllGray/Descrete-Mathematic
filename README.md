@@ -20,6 +20,6 @@ p^~q
 This code gives any square matrix and calculate its following closures:  
 1.Reflective closure  
 2.Symmetric closure  
-3.Transive closure
+3.Transitive closure
 
 
