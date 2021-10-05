@@ -1,4 +1,4 @@
-# Descrete-Mathematic
+# Descerete-Mathematic
 
 These are my discrete mathematics projects:
 
